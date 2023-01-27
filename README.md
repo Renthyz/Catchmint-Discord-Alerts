@@ -6,4 +6,4 @@ This monitor will ping you as soon as a new popular mint appears on [catchmint](
 - Run `git clone https://github.com/Renthyz/Catchmint-Discord-Alerts` to clone git repository
 - Run `cd Catchmint-Discord-Alerts` to change working directory
 - Run `yarn` or `npm i` to install all dependencies
-- Run `yarn start` to start monitor
+- Run `yarn start` or `npm run start` to start monitor
