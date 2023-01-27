@@ -1,4 +1,4 @@
-# CatchMint mint alerts
+# CatchMint Discord alerts
 This monitor will ping you as soon as a new popular mint appears on [catchmint](https://catchmint.xyz/)
 
 ### How to start?
